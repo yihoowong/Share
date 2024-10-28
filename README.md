@@ -3,7 +3,6 @@
 
 [知乎主页](https://www.zhihu.com/people/yihoo_CC "谁知道哪天又暴毙呢？")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [QQ群](https://qm.qq.com/q/2rfvhGFwhu)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Telegram](https://t.me/+EMq1Siwkhjc2ZGU1) <br>
 
-----
 </div>
 
 <p>这里是Yihoo的资源分享库，自2023年3月开始在知乎上分享经济学人以来，已经坚持了一年多。<br>但是，2024年10月25日是一个特殊的日子——被知乎禁言了！</p>
