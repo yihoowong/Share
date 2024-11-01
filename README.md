@@ -1,6 +1,8 @@
-![The Economist](https://images.ctfassets.net/2h5kbjx7tvqe/7GYxMLXCJQz4mk8kegaRPA/61aea76716f0ef047632da59c9214d7c/The-Economist.jpg)
 <div align="center">
-    <h1>Yihoo的资源分享库</h1>
+
+![The Economist](https://images.ctfassets.net/2h5kbjx7tvqe/7GYxMLXCJQz4mk8kegaRPA/61aea76716f0ef047632da59c9214d7c/The-Economist.jpg)<br>
+
+<h1>Yihoo的资源分享库</h1>
 
 [知乎主页](https://www.zhihu.com/people/yihoo_CC "谁知道哪天又暴毙呢？")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [QQ群](https://qm.qq.com/q/2rfvhGFwhu)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Telegram](https://t.me/+EMq1Siwkhjc2ZGU1) <br>
 
