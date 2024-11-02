@@ -1,6 +1,6 @@
 <div align="center">
 
-![The Economist](https://images.ctfassets.net/2h5kbjx7tvqe/7GYxMLXCJQz4mk8kegaRPA/61aea76716f0ef047632da59c9214d7c/The-Economist.jpg)<br>
+<img src="https://images.ctfassets.net/2h5kbjx7tvqe/7GYxMLXCJQz4mk8kegaRPA/61aea76716f0ef047632da59c9214d7c/The-Economist.jpg" width="425" height="240"><br>
 
 <h1>Yihoo的资源分享库</h1>
 
