@@ -15,9 +15,7 @@
 
 ## 第一部分&nbsp;&nbsp;&nbsp;2024年6月-2024年10月
 
-<div align="center">
-
-<table>
+<table align="center">
   <tr>
     <th>日期</th>
     <th>资源</th>
@@ -32,7 +30,7 @@
       <a href="https://url12.ctfile.com/f/47748612-1385198269-aae8ce">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1388737960-4f059c">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
+    <td rowspan="21" align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-10-12</td>
@@ -43,7 +41,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1382775628-232d6d">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1383025879-66ee75">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-10-05</td>
@@ -54,7 +51,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1380173884-9e36b2">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1380468464-b4468e">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-09-28</td>
@@ -65,7 +61,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1377227017-55b06d">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1377414442-5a99ab">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-09-21</td>
@@ -76,7 +71,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1363094819-61a183">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1363262518-e248b0">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-09-14</td>
@@ -87,7 +81,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1355354395-79295d">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1356357190-342341">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-09-07</td>
@@ -98,7 +91,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1353492253-9f4171">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1353831226-f31b1f">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-08-31</td>
@@ -109,7 +101,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1349474774-b1e044">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1349791522-ee93a6">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-08-24</td>
@@ -120,7 +111,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1345057909-7b97b9">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1345254340-809fa2">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-08-17</td>
@@ -131,7 +121,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1343040625-43f574">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1343040610-3b4851">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-08-10</td>
@@ -142,7 +131,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1340312173-41a68a">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1340675249-30ef37">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-08-03</td>
@@ -153,7 +141,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1339240012-ee8ed2">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1339351414-2312c7">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-07-27</td>
@@ -164,7 +151,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1336620412-d04bc8">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1336854580-553dd1">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-07-20</td>
@@ -175,7 +161,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1324357918-0f1f8e">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1325553748-8188da">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-07-13</td>
@@ -186,7 +171,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1322859901-ef9df0">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1323040564-8c0a04">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-07-06</td>
@@ -197,7 +181,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1317399209-d3a3ce">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1320003494-824bc0">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-06-29</td>
@@ -208,7 +191,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1315212772-b816f0">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1315784770-847ade">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-06-22</td>
@@ -219,7 +201,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1312363240-40c286">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1312835038-20f9dd">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-06-15</td>
@@ -230,7 +211,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1272223123-d5f63f">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1272397120-d9a038">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-06-08</td>
@@ -241,7 +221,6 @@
       <a href="https://url12.ctfile.com/f/47748612-1269170212-854268">PDF(epub转)</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1269395168-26e3ea">PDF(印刷版)</a>
     </td>
-    <td align="center">4951</td>
   </tr>
   <tr>
     <td align="center">2024-06-01</td>
@@ -251,21 +230,14 @@
       <a href="https://url12.ctfile.com/f/47748612-1251635560-63b3a8">Audio</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://url12.ctfile.com/f/47748612-1252736569-b4ff8c">PDF</a>
     </td>
-    <td align="center">4951</td>
   </tr>
 </table>
 
-</div>
-
 <br><br>
 
-## 第二部分&nbsp;&nbsp;&nbsp;2022年1月-2024年5月
+## 第二部分&nbsp;&nbsp;&nbsp;2024年1月-2024年5月
 
-<div align="center">
-
-#### 2024年PDF资源
-
-<table>
+<table align="center">
   <tr>
     <th>月份</th>
     <th>资源</th>
@@ -289,7 +261,7 @@
       <a href="https://yihoo.lanzouo.com/iCABr1uwguxi">2024.04.13</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://yihoo.lanzouo.com/irD6M1u3amna">2024.04.06</a>
     </td>
-    <td align="center">yihoo</td>
+    <td rowspan="4" align="center">yihoo</td>
   </tr>
   <tr>
     <td align="center">3月</td>
@@ -300,7 +272,6 @@
       <a href="https://yihoo.lanzouo.com/iCLcD1qrvl8f">2024.03.09</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://yihoo.lanzouo.com/i7lpi1pygrba">2024.03.02</a>
     </td>
-    <td align="center">yihoo</td>
   </tr>
   <tr>
     <td align="center">2月</td>
@@ -310,7 +281,6 @@
       <a href="https://yihoo.lanzouo.com/iJR641o2zoqd">2024.02.10</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://yihoo.lanzouo.com/iXFIZ1n663qb">2024.02.03</a>
     </td>
-    <td align="center">yihoo</td>
   </tr>
   <tr>
     <td align="center">1月</td>
@@ -320,8 +290,5 @@
       <a href="https://yihoo.lanzouo.com/iWpwI1lj98nc">2024.01.13</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://yihoo.lanzouo.com/ip6Mq1kdnged">2024.01.06</a>
     </td>
-    <td align="center">yihoo</td>
   </tr>
 </table>
-
-</div>
