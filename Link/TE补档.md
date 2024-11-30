@@ -2,7 +2,7 @@
 
 # 2024年经济学人补档
 
-~~[**资源群1**](https://qm.qq.com/q/p2QRKKD9oA)~~ \[已满\] &nbsp;&nbsp;&nbsp;&nbsp;[**资源群2**](https://qm.qq.com/q/XNwz6qD0IO)
+[**资源群1**](https://qm.qq.com/q/p2QRKKD9oA)：553615852 &nbsp;&nbsp;&nbsp;&nbsp;~~[**资源群2**](https://qm.qq.com/q/XNwz6qD0IO)~~：171095165 **\[已满\]**
 
 </div>
 
