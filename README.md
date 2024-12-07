@@ -39,7 +39,7 @@
 3. 咸鱼商品页面如下：
 <div align="center">
 
-<img src="https://github.com/yihoowong/JXH-WYH/blob/main/%E5%85%B6%E4%BB%96%E4%BB%93%E5%BA%93%E4%B8%9C%E8%A5%BF/%E5%92%B8%E9%B1%BC%E5%95%86%E5%93%81%E9%A1%B5%E9%9D%A2.jpg" width="437" height="537">
+<img src="https://github.com/yihoowong/yihoowong.github.io/blob/master/assets/images/%E5%92%B8%E9%B1%BC%E5%95%86%E5%93%81%E9%A1%B5%E9%9D%A2.jpg" width="437" height="537">
 
 </div>
 
