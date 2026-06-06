@@ -32,4 +32,12 @@
                 <a href="https://yihoo.lanzouv.com/iJHs83qo2ydi">2026.05.30</a>
             </td>
             <td>esks</td>
+        </tr>
+        <tr align="center">
+            <td>2026.06</td>
+            <td>
+                <a href="https://yihoo.lanzouv.com/iLxfx3r8whle">2026.06.06</a>
+            </td>
+            <td>3gb9</td>
+        </tr>
 </table>
