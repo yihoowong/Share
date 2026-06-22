@@ -37,7 +37,8 @@
             <td>2026.06</td>
             <td>
                 <a href="https://yihoo.lanzouv.com/iLxfx3r8whle">2026.06.06</a>&nbsp;&nbsp;&nbsp;
-                <a href="https://yihoo.lanzouv.com/i6BSE3ruvyfg">2026.06.13</a>
+                <a href="https://yihoo.lanzouv.com/i6BSE3ruvyfg">2026.06.13</a>&nbsp;&nbsp;&nbsp;
+                <a href="https://yihoo.lanzouv.com/i0jIQ3sk4iyd">2026.06.20</a>
             </td>
             <td>3gb9</td>
         </tr>
