@@ -57,7 +57,8 @@
             <td>2026.08</td>
             <td>
                 <a href="https://yihoo.lanzouv.com/i1qhz40gm7sd">2026.08.01</a>&nbsp;&nbsp;&nbsp;
-                <a href="https://yihoo.lanzouv.com/inYdN41e4glg">2026.08.08</a>
+                <a href="https://yihoo.lanzouv.com/inYdN41e4glg">2026.08.08</a>&nbsp;&nbsp;&nbsp;
+                <a href="https://yihoo.lanzouv.com/if763431ghgd">2026.08.15</a>
             </td>
             <td>gvc8</td>
         </tr>
